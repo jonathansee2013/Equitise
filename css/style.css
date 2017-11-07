@@ -221,6 +221,9 @@ div#offers {
     width: 99%;
     padding-bottom: 50%;
   }
+  article#second p {
+    font-size: 100%;
+  }
 }
 @media only screen and (max-width : 650px) and (min-width : 481px) {
    /* Tablet view: 2 tiles */
